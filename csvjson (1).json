@@ -1,0 +1,398 @@
+[
+  {
+    "ranking": 1,
+    "name": "RG Sharma",
+    "runs": 264,
+    "balls": 173,
+    "fours": 33,
+    "sixes": 9,
+    "sr": 152.6
+  },
+  {
+    "ranking": 2,
+    "name": "MJ Guptill",
+    "runs": "237*",
+    "balls": 163,
+    "fours": 24,
+    "sixes": 11,
+    "sr": 145.39
+  },
+  {
+    "ranking": 3,
+    "name": "V Sehwag",
+    "runs": 219,
+    "balls": 149,
+    "fours": 25,
+    "sixes": 7,
+    "sr": 146.97
+  },
+  {
+    "ranking": 4,
+    "name": "CH Gayle",
+    "runs": 215,
+    "balls": 147,
+    "fours": 10,
+    "sixes": 16,
+    "sr": 146.25
+  },
+  {
+    "ranking": 5,
+    "name": "Fakhar Zaman",
+    "runs": "210*",
+    "balls": 156,
+    "fours": 24,
+    "sixes": 5,
+    "sr": 134.61
+  },
+  {
+    "ranking": 6,
+    "name": "RG Sharma",
+    "runs": 209,
+    "balls": 158,
+    "fours": 12,
+    "sixes": 16,
+    "sr": 132.27
+  },
+  {
+    "ranking": 7,
+    "name": "RG Sharma",
+    "runs": "208*",
+    "balls": 153,
+    "fours": 13,
+    "sixes": 12,
+    "sr": 135.94
+  },
+  {
+    "ranking": 8,
+    "name": "SR Tendulkar",
+    "runs": "200*",
+    "balls": 147,
+    "fours": 25,
+    "sixes": 3,
+    "sr": 136.05
+  },
+  {
+    "ranking": 9,
+    "name": "CK Coventry",
+    "runs": "194*",
+    "balls": 156,
+    "fours": 16,
+    "sixes": 7,
+    "sr": 124.35
+  },
+  {
+    "ranking": 10,
+    "name": "Saeed Anwar",
+    "runs": 194,
+    "balls": 146,
+    "fours": 22,
+    "sixes": 5,
+    "sr": 132.87
+  },
+  {
+    "ranking": 11,
+    "name": "Fakhar Zaman",
+    "runs": 193,
+    "balls": 155,
+    "fours": 18,
+    "sixes": 10,
+    "sr": 124.51
+  },
+  {
+    "ranking": 12,
+    "name": "IVA Richards",
+    "runs": "189*",
+    "balls": 170,
+    "fours": 21,
+    "sixes": 5,
+    "sr": 111.17
+  },
+  {
+    "ranking": 13,
+    "name": "MJ Guptill",
+    "runs": "189*",
+    "balls": 155,
+    "fours": 19,
+    "sixes": 2,
+    "sr": 121.93
+  },
+  {
+    "ranking": 14,
+    "name": "ST Jayasuriya",
+    "runs": 189,
+    "balls": 161,
+    "fours": 21,
+    "sixes": 4,
+    "sr": 117.39
+  },
+  {
+    "ranking": 15,
+    "name": "G Kirsten",
+    "runs": "188*",
+    "balls": 159,
+    "fours": 13,
+    "sixes": 4,
+    "sr": 118.23
+  },
+  {
+    "ranking": 16,
+    "name": "SR Tendulkar",
+    "runs": "186*",
+    "balls": 150,
+    "fours": 20,
+    "sixes": 3,
+    "sr": 124
+  },
+  {
+    "ranking": 17,
+    "name": "SR Watson",
+    "runs": "185*",
+    "balls": 96,
+    "fours": 15,
+    "sixes": 15,
+    "sr": 192.7
+  },
+  {
+    "ranking": 18,
+    "name": "F du Plessis",
+    "runs": 185,
+    "balls": 141,
+    "fours": 16,
+    "sixes": 3,
+    "sr": 131.2
+  },
+  {
+    "ranking": 19,
+    "name": "MS Dhoni",
+    "runs": "183*",
+    "balls": 145,
+    "fours": 15,
+    "sixes": 10,
+    "sr": 126.2
+  },
+  {
+    "ranking": 20,
+    "name": "SC Ganguly",
+    "runs": 183,
+    "balls": 158,
+    "fours": 17,
+    "sixes": 7,
+    "sr": 115.82
+  },
+  {
+    "ranking": 21,
+    "name": "V Kohli",
+    "runs": 183,
+    "balls": 148,
+    "fours": 22,
+    "sixes": 1,
+    "sr": 123.64
+  },
+  {
+    "ranking": 22,
+    "name": "ML Hayden",
+    "runs": "181*",
+    "balls": 166,
+    "fours": 11,
+    "sixes": 10,
+    "sr": 109.03
+  },
+  {
+    "ranking": 23,
+    "name": "LRPL Taylor",
+    "runs": "181*",
+    "balls": 147,
+    "fours": 17,
+    "sixes": 6,
+    "sr": 123.12
+  },
+  {
+    "ranking": 24,
+    "name": "IVA Richards",
+    "runs": 181,
+    "balls": 125,
+    "fours": 16,
+    "sixes": 7,
+    "sr": 144.8
+  },
+  {
+    "ranking": 25,
+    "name": "MJ Guptill",
+    "runs": "180*",
+    "balls": 138,
+    "fours": 15,
+    "sixes": 11,
+    "sr": 130.43
+  },
+  {
+    "ranking": 26,
+    "name": "JJ Roy",
+    "runs": 180,
+    "balls": 151,
+    "fours": 16,
+    "sixes": 5,
+    "sr": 119.2
+  },
+  {
+    "ranking": 27,
+    "name": "DA Warner",
+    "runs": 179,
+    "balls": 128,
+    "fours": 19,
+    "sixes": 5,
+    "sr": 139.84
+  },
+  {
+    "ranking": 28,
+    "name": "JD Campbell",
+    "runs": 179,
+    "balls": 137,
+    "fours": 15,
+    "sixes": 6,
+    "sr": 130.65
+  },
+  {
+    "ranking": 29,
+    "name": "H Masakadza",
+    "runs": "178*",
+    "balls": 167,
+    "fours": 17,
+    "sixes": 4,
+    "sr": 106.58
+  },
+  {
+    "ranking": 30,
+    "name": "DA Warner",
+    "runs": 178,
+    "balls": 133,
+    "fours": 19,
+    "sixes": 5,
+    "sr": 133.83
+  },
+  {
+    "ranking": 31,
+    "name": "Q de Kock",
+    "runs": 178,
+    "balls": 113,
+    "fours": 16,
+    "sixes": 11,
+    "sr": 157.52
+  },
+  {
+    "ranking": 32,
+    "name": "JN Malan",
+    "runs": "177*",
+    "balls": 169,
+    "fours": 16,
+    "sixes": 6,
+    "sr": 104.73
+  },
+  {
+    "ranking": 33,
+    "name": "PR Stirling",
+    "runs": 177,
+    "balls": 134,
+    "fours": 21,
+    "sixes": 5,
+    "sr": 132.08
+  },
+  {
+    "ranking": 34,
+    "name": "E Lewis",
+    "runs": "176*",
+    "balls": 130,
+    "fours": 17,
+    "sixes": 7,
+    "sr": 135.38
+  },
+  {
+    "ranking": 35,
+    "name": "AB de Villiers",
+    "runs": 176,
+    "balls": 104,
+    "fours": 15,
+    "sixes": 7,
+    "sr": 169.23
+  },
+  {
+    "ranking": 36,
+    "name": "Litton Das",
+    "runs": 176,
+    "balls": 143,
+    "fours": 16,
+    "sixes": 8,
+    "sr": 123.07
+  },
+  {
+    "ranking": 37,
+    "name": "N Kapil Dev",
+    "runs": "175*",
+    "balls": 138,
+    "fours": 16,
+    "sixes": 6,
+    "sr": 126.81
+  },
+  {
+    "ranking": 38,
+    "name": "HH Gibbs",
+    "runs": 175,
+    "balls": 111,
+    "fours": 21,
+    "sixes": 7,
+    "sr": 157.65
+  },
+  {
+    "ranking": 39,
+    "name": "SR Tendulkar",
+    "runs": 175,
+    "balls": 141,
+    "fours": 19,
+    "sixes": 4,
+    "sr": 124.11
+  },
+  {
+    "ranking": 40,
+    "name": "V Sehwag",
+    "runs": 175,
+    "balls": 140,
+    "fours": 14,
+    "sixes": 5,
+    "sr": 125
+  },
+  {
+    "ranking": 41,
+    "name": "CS MacLeod",
+    "runs": 175,
+    "balls": 141,
+    "fours": 14,
+    "sixes": 5,
+    "sr": 124.11
+  },
+  {
+    "ranking": 42,
+    "name": "WU Tharanga",
+    "runs": "174*",
+    "balls": 159,
+    "fours": 19,
+    "sixes": 3,
+    "sr": 109.43
+  },
+  {
+    "ranking": 43,
+    "name": "JS Malhotra",
+    "runs": "173*",
+    "balls": 124,
+    "fours": 4,
+    "sixes": 16,
+    "sr": 139.51
+  },
+  {
+    "ranking": 44,
+    "name": "ME Waugh",
+    "runs": 173,
+    "balls": 148,
+    "fours": 16,
+    "sixes": 3,
+    "sr": 116.89
+  }
+]
